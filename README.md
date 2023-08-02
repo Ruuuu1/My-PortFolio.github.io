@@ -3,7 +3,8 @@
 
 Welcome to my Portfolio! This project showcases my skills and experience as an IT student, Rutuja Bhongade, from India. It includes information about me, the services I offer, my projects, and how to get in touch with me.
 
-![Screenshot (59)](https://github.com/Ruuuu1/My-PortFolio.github.io/assets/123803159/d64be289-863e-4416-94ba-b83bbafc0181)
+![home](https://github.com/Ruuuu1/My-PortFolio.github.io/assets/123803159/2ef9a06d-6163-47cd-bff2-d5a79bfc4d9b)
+
 
 ## Table of Contents
 
