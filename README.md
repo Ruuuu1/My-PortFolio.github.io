@@ -15,24 +15,27 @@ Welcome to my Portfolio! This project showcases my skills and experience as an I
 - [License](#license)
 
 ## About Me
+![about](https://github.com/Ruuuu1/My-PortFolio.github.io/assets/123803159/acfeb42c-efb7-4614-a7de-93d5b8c364f2)
 
-![Screenshot (60)](https://github.com/Ruuuu1/PORTFOLIO/assets/123803159/8a1e2177-34c5-4b08-9f94-9752680df53c)
 
 
 ## Services
 
-![Screenshot (61)](https://github.com/Ruuuu1/PORTFOLIO/assets/123803159/a5c758df-5272-4e44-81ff-593f8cb82e15)
+![service](https://github.com/Ruuuu1/My-PortFolio.github.io/assets/123803159/02aac955-d039-4dca-b607-8f6995a936da)
 
 
-## Portfolio
+
+## Work
 
 
-![Screenshot (63)](https://github.com/Ruuuu1/PORTFOLIO/assets/123803159/5e9d8268-370a-4c47-a1a4-9fac34d3b0fb)
+![work](https://github.com/Ruuuu1/My-PortFolio.github.io/assets/123803159/55837417-a0ff-46c6-aecc-98f39622f56a)
+
 
  
 ## Contact Me
 
-![Screenshot (64)](https://github.com/Ruuuu1/PORTFOLIO/assets/123803159/1a1fa1dd-5b33-4509-829e-5bc7a71af7ea)
+![contact](https://github.com/Ruuuu1/My-PortFolio.github.io/assets/123803159/5db3b6c1-1848-4854-886b-14a67b720d3b)
+
 
 
 You can also download my CV [here](Image/my-cv.pdf).
