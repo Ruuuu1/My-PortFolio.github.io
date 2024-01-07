@@ -16,26 +16,30 @@ Welcome to my Portfolio! This project showcases my skills and experience as an I
 - [License](#license)
 
 ## About Me
-![Screenshot (215)](https://github.com/Ruuuu1/My-PortFolio.github.io/assets/123803159/d5307a0d-ab6f-4da3-bd4b-88b3784bb0b0)
+![Screenshot (212)](https://github.com/Ruuuu1/My-PortFolio.github.io/assets/123803159/0e458c03-db6a-465b-a648-67eb2a862260)
+
 
 
 
 
 ## Services
 
-![Screenshot (215)](https://github.com/Ruuuu1/My-PortFolio.github.io/assets/123803159/fef27da6-4ee0-4866-a847-aae7683d8c42)
+![Screenshot (213)](https://github.com/Ruuuu1/My-PortFolio.github.io/assets/123803159/48090934-4b5a-4cf3-abf1-ec235c423085)
+
 
 
 
 
 ## Work
-![Screenshot (215)](https://github.com/Ruuuu1/My-PortFolio.github.io/assets/123803159/c651e246-45b3-4354-b274-942fc09564dd)
+![Screenshot (214)](https://github.com/Ruuuu1/My-PortFolio.github.io/assets/123803159/eb98bf02-0009-413f-8fef-5f33c76dd31d)
+
 
 
  
 ## Contact Me
 
-![Screenshot (215)](https://github.com/Ruuuu1/My-PortFolio.github.io/assets/123803159/2d8eb5e7-f94e-4319-9e94-493680a1b746)
+![Screenshot (215)](https://github.com/Ruuuu1/My-PortFolio.github.io/assets/123803159/fb7c2956-afac-4022-b07e-7ddb05e1177c)
+
 
 
 
